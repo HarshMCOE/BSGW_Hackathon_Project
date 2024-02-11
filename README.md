@@ -2,6 +2,6 @@
 
  Team Name : CodeCrafters 
 
- Team Memebers:
+ Team Members:
                  1. Harshawardhan Patare
                 2. Rohit Nehul
